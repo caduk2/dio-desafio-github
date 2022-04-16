@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="k2pc2022new001"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-14 10:00:29 "/>
+        <attribute name="created" value="azJwYzIwMjJuZXcwMDE7REVTS1RPUC05MTBFMkdGOzIwMjItMDQtMTQ7IjA3OjU0OjIxICI7MzIyNw=="/>
+        <attribute name="edited" value="azJwYzIwMjJuZXcwMDE7REVTS1RPUC05MTBFMkdGOzIwMjItMDQtMTQ7IjEwOjAwOjI5ICI7NzszMzM0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <if expression="media&gt;7">
+                <then>
+                    <output expression="&quot;Parab&#233;ns, est&#225; aprovado!&quot; &amp; &quot; Pois sua m&#233;dia &#233;: &quot; &amp; media" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Est&#225; de recupera&#231;&#227;o!&quot; &amp; &quot; Pois sua m&#233;dia &#233;: &quot; &amp; media" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
