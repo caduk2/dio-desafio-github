@@ -5,4 +5,8 @@ Desafio Projeto Git/Github Dinâmicas de Versionamentos de Código Fonte
 
 - Desafios
 
-- Add Exercicios Primeiros passos desenvolvimento WEB e HTML & CSS
+- Add exercícios Logica da Programação Essencial (Flowgorith e Portugol)
+
+- Add Exercicios Primeiros Passos desenvolvimento WEB 
+
+- Add Exercícios HTML & CSS
