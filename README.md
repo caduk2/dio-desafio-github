@@ -1,5 +1,5 @@
 # dio-desafio-github-ByCET
-Exercícios e Desafios do Carrefour Web Developer (by Carlos Eduardo Tavares)
+Exercícios e Desafios do Carrefour Web Developer (by Carlos Eduardo Tavares) (br /)
 Desafio Projeto Git/Github Dinâmicas de Versionamentos de Código Fonte
 
 - Exercícios de Cursos
